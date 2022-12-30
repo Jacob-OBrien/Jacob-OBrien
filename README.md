@@ -3,7 +3,7 @@
 <h2>💻 Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/JacobOBrien)
+  - [Active Directory Home Lab](https://github.com/Jacob-OBrien/ActiveDirectoryHomeLab1)
 - <b>HTML5 & CSS</b>
   - [Elk Bistro & Inn (Web Development Project)](https://github.com/JacobOBrien)
 
